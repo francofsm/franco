@@ -147,6 +147,6 @@ return array(
                     'domain'    => 'minpublico.cl',
 		),
 		// this is used in contact page
-		'adminEmail'=>'alorensv@minpublico.cl',
+		'adminEmail'=>'@minpublico.cl',
 	),
 );
